@@ -1,0 +1,36 @@
+2026/04/29-13:44:53.887 90c5 Reusing MANIFEST /home/odoo1dev/Music/Kimi_Agent_أتمتة WhatsApp Web/backend/.wwebjs_auth/69f1d4b04c3f063347005993/session-69f1d4b04c3f063347005993/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/29-13:44:53.887 90c5 Recovering log #169
+2026/04/29-13:44:53.895 90c5 Reusing old log /home/odoo1dev/Music/Kimi_Agent_أتمتة WhatsApp Web/backend/.wwebjs_auth/69f1d4b04c3f063347005993/session-69f1d4b04c3f063347005993/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000169.log 
+2026/04/29-13:45:48.508 90c5 Level-0 table #177: started
+2026/04/29-13:45:48.532 90c5 Level-0 table #177: 1281272 bytes OK
+2026/04/29-13:45:48.536 90c5 Delete type=0 #169
+2026/04/29-13:45:48.538 90c5 Compacting 1@1 + 4@2 files
+2026/04/29-13:45:48.613 90c5 Generated table #178@1: 68461 keys, 2230883 bytes
+2026/04/29-13:45:48.639 90c5 Generated table #179@1: 15091 keys, 2156956 bytes
+2026/04/29-13:45:48.683 90c5 Generated table #180@1: 18896 keys, 2186866 bytes
+2026/04/29-13:45:48.740 90c5 Generated table #181@1: 82021 keys, 2227940 bytes
+2026/04/29-13:45:48.748 90c5 Generated table #182@1: 4249 keys, 237864 bytes
+2026/04/29-13:45:48.748 90c5 Compacted 1@1 + 4@2 files => 9040509 bytes
+2026/04/29-13:45:48.752 90c5 compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/04/29-13:45:48.752 90c5 Delete type=2 #172
+2026/04/29-13:45:48.752 90c5 Delete type=2 #174
+2026/04/29-13:45:48.752 90c5 Delete type=2 #177
+2026/04/29-13:45:48.752 90c5 Delete type=2 #173
+2026/04/29-13:45:48.752 90c5 Delete type=2 #171
+2026/04/29-14:01:21.949 90c3 Level-0 table #184: started
+2026/04/29-14:01:21.973 90c3 Level-0 table #184: 1348176 bytes OK
+2026/04/29-14:01:21.978 90c3 Delete type=0 #176
+2026/04/29-14:04:46.027 90c5 Compacting 1@1 + 5@2 files
+2026/04/29-14:04:46.134 90c5 Generated table #185@1: 58617 keys, 2221776 bytes
+2026/04/29-14:04:46.184 90c5 Generated table #186@1: 10293 keys, 2157386 bytes
+2026/04/29-14:04:46.237 90c5 Generated table #187@1: 18906 keys, 2185014 bytes
+2026/04/29-14:04:46.336 90c5 Generated table #188@1: 86279 keys, 2233255 bytes
+2026/04/29-14:04:46.350 90c5 Generated table #189@1: 6590 keys, 291741 bytes
+2026/04/29-14:04:46.350 90c5 Compacted 1@1 + 5@2 files => 9089172 bytes
+2026/04/29-14:04:46.355 90c5 compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/04/29-14:04:46.355 90c5 Delete type=2 #181
+2026/04/29-14:04:46.356 90c5 Delete type=2 #178
+2026/04/29-14:04:46.356 90c5 Delete type=2 #182
+2026/04/29-14:04:46.356 90c5 Delete type=2 #180
+2026/04/29-14:04:46.356 90c5 Delete type=2 #179
+2026/04/29-14:04:46.356 90c5 Delete type=2 #184
