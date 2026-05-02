@@ -28,3 +28,30 @@ Thumbs.db
 # Uploads (user files)
 backend/uploads/*
 !backend/uploads/.gitkeep
+
+## Session / browser cache created by wwebjs / puppeteer
+backend/.wwebjs_auth/
+backend/.wwebjs_cache/
+
+# Environment and local config
+.env
+.env.*
+app/.env.local
+backend/.env.local
+
+# Build / tooling
+.cache/
+.parcel-cache/
+dist/
+coverage/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Large DB / runtime data
+data/
+uploads/
+
+# NPM lock (optional)
+# package-lock.json
